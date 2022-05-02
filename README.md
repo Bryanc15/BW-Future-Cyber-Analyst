@@ -1,2 +1,2 @@
-# BW-Future-Cyber-Analyst
-Six figures
+# BW Scripts
+Linux and Ansible Scripts CS Class
