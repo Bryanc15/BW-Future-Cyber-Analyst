@@ -1,2 +1,2 @@
 # BW-Future-CyberS-Analyst
-six figures
+Six figures
